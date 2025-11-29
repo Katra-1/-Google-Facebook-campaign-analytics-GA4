@@ -95,4 +95,4 @@
 ⸻
 
 Матеріали проєкту
-[Презентація](./Google_Facebook_campaign_GA4)
+[Презентація](./Google_Facebook_campaign_GA4.pdf)
