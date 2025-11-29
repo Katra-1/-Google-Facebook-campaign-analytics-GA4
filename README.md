@@ -98,41 +98,41 @@
 
 2.2 Таблиця з конверсіями за датами та каналами трафіку:
 	
-	•	event_date
+•	event_date
 	
-	•	source, medium, campaign
+•	source, medium, campaign
 	
-	•	user_sessions_count
+•	user_sessions_count
 	
-	•	visit_to_cart
+•	visit_to_cart
 	
-	•	visit_to_checkout
+•	visit_to_checkout
 	
-	•	visit_to_purchase
+•	visit_to_purchase
 
 2.3 Аналіз посадкових сторінок (2020 рік):
 	
-	•	Унікальні сесії
+•	Унікальні сесії
 	
-	•	Покупки
+•	Покупки
 	
-	•	Конверсія від сесії до покупки
+•	Конверсія від сесії до покупки
 
 2.4 Розрахована кореляція між:
+
+•	залученістю користувача в сесії
 	
-	•	залученістю користувача в сесії
+•	загальним часом активності
 	
-	•	загальним часом активності
-	
-	•	наявністю покупки
+•	наявністю покупки
 
 ⸻
 
 Інструменти
 	
-	•	PostgreSQL
+•	PostgreSQL
 	
-	•	BigQuery
+•	BigQuery
 
 ⸻
 
