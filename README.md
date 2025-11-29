@@ -76,25 +76,25 @@
 
 2. GA4
 
-2.1 Підготовлена таблиця подій (2021 рік), що містить:
+2.1 Підготовлена таблиця подій (2021 рік), що містить
 
-	•	event_timestamp	
+•	event_timestamp	
 	
-	•	user_pseudo_id
+•	user_pseudo_id
 	
-	•	session_id
+•	session_id
 	
-	•	event_name
+•	event_name
 	
-	•	country
+•	country
 	
-	•	device_category
+•	device_category
 	
-	•	source
+•	source
 	
-	•	medium
+•	medium
 	
-	•	campaign
+•	campaign
 
 2.2 Таблиця з конверсіями за датами та каналами трафіку:
 	
